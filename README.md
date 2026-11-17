@@ -394,3 +394,17 @@ This repository is a service and portfolio showcase for pharmacy management soft
 The features described above represent potential development capabilities and solution modules. They should not be interpreted as confirmation that every feature is implemented in a ready-to-use application.
 
 **Proprietary Notice:** This repository is a project showcase. No permission to redistribute, reuse, or commercially exploit proprietary source code, branding, or materials is granted unless separately authorized in writing.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Billing</b><br><br><img src="screenshots/2-billing.png" alt="Billing"></td>
+    <td align="center" width="50%"><b>Expiry</b><br><br><img src="screenshots/3-expiry.png" alt="Expiry"></td>
+  </tr>
+</table>
